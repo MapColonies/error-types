@@ -3,7 +3,7 @@ module.exports = {
     '^.+\\.ts$': 'ts-jest',
   },
   testMatch: ['<rootDir>/tests/unit/**/*.spec.ts'],
-  collectCoverage: true,
+  collectCoverage: false,
   collectCoverageFrom: ['<rootDir>/src/**/*.ts', '!**/node_modules/**', '!**/vendor/**'],
   coverageDirectory: '<rootDir>/coverage',
   coverageReporters: ['text-summary', 'html', 'json'],
