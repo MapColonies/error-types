@@ -1,5 +1,17 @@
-# ts-npm-package-boilerplate
+# error-types
 
-After cloning this template, please do the following:
-1. insert secrets to repo secrets for the github actions.
-2. replace every string "ts-npm-package-boilerplate" with your package name.
+This project holds definitions for basic http error types.
+
+## package includes:
+
+- Basic http error types
+
+## package usage:
+
+the package can be installed with `npm install @map-colonies/error-types`.
+
+## building the package:
+
+run `npm install` to install project dependencies.
+
+to create local package tgz file run `npm pack` after the build
