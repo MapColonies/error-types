@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2021-07-19)
+
+
+### Features
+
+* add basic http errors ([#1](https://github.com/MapColonies/error-types/issues/1)) ([b73b0ca](https://github.com/MapColonies/error-types/commit/b73b0ca797aa4afb05286c0fa33153c76a0ad0bc))
+
 ## 1.1.0 (2021-01-04)
 
 
