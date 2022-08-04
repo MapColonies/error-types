@@ -6,3 +6,5 @@ export * from './internalServerError';
 export * from './notFoundError';
 export * from './notImplementedError';
 export * from './unauthorizedError';
+export * from './serviceUnavailableError';
+export * from './noContentError';
