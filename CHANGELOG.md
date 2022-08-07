@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.2 (2022-08-07)
+
+
+### Bug Fixes
+
+* release version fixing ([#3](https://github.com/MapColonies/error-types/issues/3)) ([efb0caf](https://github.com/MapColonies/error-types/commit/efb0caf4e11af2241e813b92adaf5daa4eaba0b4))
+
 ### 1.1.1 (2022-08-04)
 
 ## 1.1.0 (2021-07-19)
