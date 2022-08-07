@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.3 (2022-08-07)
+
+
+### Bug Fixes
+
+* script for prepack ([#4](https://github.com/MapColonies/error-types/issues/4)) ([03ea162](https://github.com/MapColonies/error-types/commit/03ea1625004920db4893aa9fc39a863f29693e8c))
+
 ### 1.1.2 (2022-08-07)
 
 
