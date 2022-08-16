@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/MapColonies/error-types/compare/v1.1.1...v1.1.4) (2022-08-16)
+
+
+### Bug Fixes
+
+* release version fixing ([#3](https://github.com/MapColonies/error-types/issues/3)) ([efb0caf](https://github.com/MapColonies/error-types/commit/efb0caf4e11af2241e813b92adaf5daa4eaba0b4))
+* script for prepack ([#4](https://github.com/MapColonies/error-types/issues/4)) ([03ea162](https://github.com/MapColonies/error-types/commit/03ea1625004920db4893aa9fc39a863f29693e8c))
+
 ### [1.1.3](https://github.com/MapColonies/error-types/compare/v1.1.2...v1.1.3) (2022-08-07)
 
 
