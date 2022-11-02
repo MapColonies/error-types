@@ -9,3 +9,4 @@ export * from './unauthorizedError';
 export * from './serviceUnavailableError';
 export * from './noContentError';
 export * from './unprocessableEntity';
+export * from './insufficientStorage';
