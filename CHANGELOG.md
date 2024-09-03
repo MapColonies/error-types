@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/MapColonies/error-types/compare/v1.1.5...v1.2.0) (2024-09-03)
+
+
+### Features
+
+* Add 405 error ([#8](https://github.com/MapColonies/error-types/issues/8)) ([9eb4b05](https://github.com/MapColonies/error-types/commit/9eb4b05b84a926dbeb81535e9e8c79d8a7f2c2c7))
+
 ### [1.1.5](https://github.com/MapColonies/error-types/compare/v1.1.4...v1.1.5) (2022-11-02)
 
 ### [1.1.4](https://github.com/MapColonies/error-types/compare/v1.1.1...v1.1.4) (2022-08-16)
