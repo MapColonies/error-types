@@ -8,7 +8,7 @@ export class TooManyRequestsError extends HttpError {
     if (error instanceof Error) {
       super(error, HttpStatus.TOO_MANY_REQUESTS, messageOverride);
     } else {
-      super(error, HttpStatus.FORBIDDEN);
+      super(error, HttpStatus.TOO_MANY_REQUESTS);
     }
 
     // Issue: https://github.com/microsoft/TypeScript/issues/10166

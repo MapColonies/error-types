@@ -8,7 +8,7 @@ export class ContentTooLarge extends HttpError {
     if (error instanceof Error) {
       super(error, HttpStatus.REQUEST_TOO_LONG, messageOverride);
     } else {
-      super(error, HttpStatus.FORBIDDEN);
+      super(error, HttpStatus.REQUEST_TOO_LONG);
     }
 
     // Issue: https://github.com/microsoft/TypeScript/issues/10166

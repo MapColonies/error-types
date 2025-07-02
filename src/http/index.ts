@@ -11,3 +11,5 @@ export * from './noContentError';
 export * from './unprocessableEntity';
 export * from './insufficientStorage';
 export * from './methodNotAllowedError';
+export * from './tooManyRequestsError';
+export * from './contentTooLargeError';
