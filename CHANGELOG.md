@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/MapColonies/error-types/compare/v1.2.0...v1.3.0) (2025-07-03)
+
+
+### Features
+
+* add contentTooLarge and tooManyrequestsError classes ([#9](https://github.com/MapColonies/error-types/issues/9)) ([c3c1fc4](https://github.com/MapColonies/error-types/commit/c3c1fc46b8d511de15ef9b3eb7164868d96b16f5))
+
 ## [1.2.0](https://github.com/MapColonies/error-types/compare/v1.1.5...v1.2.0) (2024-09-03)
 
 
